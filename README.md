@@ -1,4 +1,5 @@
 # PaperPlane
+Jogo de avião de papel
 
 # Sobre o projeto
 
